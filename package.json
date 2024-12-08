@@ -1,0 +1,28 @@
+{
+  "name": "culling-gamer",
+  "version": "1.0.0",
+  "description": "Discord bot with some features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanderenas/culling-gamer.git"
+  },
+  "keywords": [
+    "Dicord",
+    "bot",
+    "commands"
+  ],
+  "author": "Sean Derenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanderenas/culling-gamer/issues"
+  },
+  "homepage": "https://github.com/seanderenas/culling-gamer#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.7"
+  }
+}
